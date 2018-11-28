@@ -6,4 +6,4 @@
 
 # Applied Visual Design
 
-#
+# Applied Accessibility
