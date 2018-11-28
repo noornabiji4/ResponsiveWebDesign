@@ -7,3 +7,5 @@
 # Applied Visual Design
 
 # Applied Accessibility
+
+# Responsive Web Design Principles
